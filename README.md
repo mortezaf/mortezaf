@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Software engineer by day ☼ and a Laravel Community Contributor by night ☾
+#### A Software engineer by 🐘 🦀 🦫 🐧 ❤️
 
 - ⚙️ I use daily: `.php`, `.js`, `.rs`
 - 🌍 I'm mostly active within the **Laravel and Rust Community**
